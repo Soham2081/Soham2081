@@ -45,7 +45,7 @@ I enjoy transforming raw, unstructured data into **clear insights that support d
 ## 🛠️ Skills & Tools
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="30%" alt="Image">
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="33%" alt="Image">
 </picture>
 
 ### 🔹 Data Analysis & Programming
