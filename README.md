@@ -112,5 +112,5 @@ I enjoy transforming raw, unstructured data into **clear insights that support d
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  ![snake gif](https://github.com/Soham2081/Soham2081/blob/main/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Soham2081/Soham2081/d3d7b9b8ca0fd15ee834ecce2692bd27d4f9ce4c/github-snake.svg" alt="GitHub Snake" width="600" />
 </p>
