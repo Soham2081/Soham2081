@@ -1,37 +1,55 @@
-<h1 align="center">Hi 👋, I'm Soham Desai</h1>
-<h3 align="center">A Data Analyst passionate about turning raw data into actionable business insights</h3>
+<h2 align="left">Hi 👋! My name is Soham Desai and I'm a Data Analyst, from India 🇮🇳</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham2081&label=Profile%20views&color=0e75b6&style=flat" alt="soham2081" /> </p>
+###
 
-- 🔭 I’m currently working on [E-commerce Sales & Business Intelligence Analysis Projects](https://github.com/Soham2081)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham2081&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham2081&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-- 🌱 I’m currently learning **Advanced SQL, DAX, Power BI dashboard optimization, and real-world business analytics**
+###
 
-- 👯 I’m looking to collaborate on [Data Analysis and Business Intelligence Projects](https://github.com/Soham2081)
+<img align="right" height="150" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
-- 🤝 I’m looking for help with [Advanced SQL optimization and Power BI performance tuning](https://learn.microsoft.com/power-bi/)
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/Soham2081](https://github.com/Soham2081)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="30" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+</div>
 
-- 💬 Ask me about **Python (Pandas, NumPy), SQL, Power BI, Exploratory Data Analysis (EDA), Data Visualization**
+###
 
-- 📫 How to reach me **desaisoham7890@gmail.com**
+<div align="left">
+  <a href="mailto:desaisoham7890@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/soham-desai-861026206">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/Soham2081">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="https://soham-desai-data-analyst-uwkvteo.gamma.site/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://soham-desai-data-analyst-uwkvteo.gamma.site/](https://soham-desai-data-analyst-uwkvteo.gamma.site/)
+###
 
-- ⚡ Fun fact **I enjoy finding patterns in data that help businesses make better decisions**
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soham-desai-861026206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-desai-861026206" height="30" width="40" /></a>
-<a href="https://instagram.com/soham_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham_101" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham2081&show_icons=true&locale=en&layout=compact" alt="soham2081" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham2081&show_icons=true&locale=en" alt="soham2081" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham2081&" alt="soham2081" /></p>
+###
