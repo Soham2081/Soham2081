@@ -1,112 +1,37 @@
-# Hi, I'm Soham Desai 👋  
+<h1 align="center">Hi 👋, I'm Soham Desai</h1>
+<h3 align="center">A Data Analyst passionate about turning raw data into actionable business insights</h3>
 
-📊 **Data Analyst** with hands-on experience in **Python, SQL, Power BI, and Advanced Excel**.  
-I specialize in **data cleaning, exploratory data analysis (EDA), business intelligence, and dashboard development** to support data-driven decisions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham2081&label=Profile%20views&color=0e75b6&style=flat" alt="soham2081" /> </p>
 
----
+- 🔭 I’m currently working on [E-commerce Sales & Business Intelligence Analysis Projects](https://github.com/Soham2081)
 
-## 🧰 Skills & Tools
-- **Programming:** Python (Pandas, NumPy)
-- **Data Visualization:** Matplotlib, Seaborn, Power BI
-- **Databases:** SQL, MySQL
-- **Analytics:** EDA, KPI Reporting, Trend Analysis
-- **Tools:** Excel (Advanced), Power Query, DAX
+- 🌱 I’m currently learning **Advanced SQL, DAX, Power BI dashboard optimization, and real-world business analytics**
 
----
+- 👯 I’m looking to collaborate on [Data Analysis and Business Intelligence Projects](https://github.com/Soham2081)
 
-## 📌 Featured Projects
+- 🤝 I’m looking for help with [Advanced SQL optimization and Power BI performance tuning](https://learn.microsoft.com/power-bi/)
 
-### 🔹 Amazon Sales Data Analysis
-**Tech:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Cleaned and analyzed Amazon sales data to identify pricing, discount, and category trends  
-- Performed exploratory data analysis to uncover customer behavior insights  
-- Built visualizations to support data-driven business decisions  
+- 👨‍💻 All of my projects are available at [https://github.com/Soham2081](https://github.com/Soham2081)
 
-🔗 Repository: https://github.com/Soham2081/Amazon-Sales-Data-Analysis
+- 💬 Ask me about **Python (Pandas, NumPy), SQL, Power BI, Exploratory Data Analysis (EDA), Data Visualization**
 
----
+- 📫 How to reach me **desaisoham7890@gmail.com**
 
-### 🔹 Flipkart Business Operations & Revenue Intelligence
-**Tech:** SQL, Power BI  
-- Analyzed large transactional datasets using optimized SQL queries  
-- Built Power BI dashboards for revenue, order status, and regional performance  
+- 📄 Know about my experiences [https://soham-desai-data-analyst-uwkvteo.gamma.site/](https://soham-desai-data-analyst-uwkvteo.gamma.site/)
 
-🔗 Repository: https://github.com/Soham2081/Flipkart-Business-Operations-Revenue-Intelligence
+- ⚡ Fun fact **I enjoy finding patterns in data that help businesses make better decisions**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soham-desai-861026206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-desai-861026206" height="30" width="40" /></a>
+<a href="https://instagram.com/soham_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham_101" height="30" width="40" /></a>
+</p>
 
-### 🔹 Adventure Works BI Dashboard
-**Tech:** Power BI, SQL, DAX  
-- Designed interactive dashboards for sales, profit, and time-based analysis  
-- Implemented DAX measures for business performance tracking  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-🔗 Repository: https://github.com/Soham2081/ADVENTURE-WORKS-PROJECT
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham2081&show_icons=true&locale=en&layout=compact" alt="soham2081" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham2081&show_icons=true&locale=en" alt="soham2081" /></p>
 
-## 📈 What I'm Working On
-- Improving SQL optimization skills
-- Advanced Power BI dashboarding
-- Real-world business case analysis
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/soham-desai-861026206  
-- Portfolio: https://soham-desai-data-analyst-uwkvteo.gamma.site/
-# Hi, I'm Soham Desai 👋  
-
-📊 **Data Analyst** with hands-on experience in **Python, SQL, Power BI, and Advanced Excel**.  
-I specialize in **data cleaning, exploratory data analysis (EDA), business intelligence, and dashboard development** to support data-driven decisions.
-
----
-
-## 🧰 Skills & Tools
-- **Programming:** Python (Pandas, NumPy)
-- **Data Visualization:** Matplotlib, Seaborn, Power BI
-- **Databases:** SQL, MySQL
-- **Analytics:** EDA, KPI Reporting, Trend Analysis
-- **Tools:** Excel (Advanced), Power Query, DAX
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Amazon Sales Data Analysis
-**Tech:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Cleaned and analyzed Amazon sales data to identify pricing, discount, and category trends  
-- Performed exploratory data analysis to uncover customer behavior insights  
-- Built visualizations to support data-driven business decisions  
-
-🔗 Repository: https://github.com/Soham2081/Amazon-Sales-Data-Analysis
-
----
-
-### 🔹 Flipkart Business Operations & Revenue Intelligence
-**Tech:** SQL, Power BI  
-- Analyzed large transactional datasets using optimized SQL queries  
-- Built Power BI dashboards for revenue, order status, and regional performance  
-
-🔗 Repository: https://github.com/Soham2081/Flipkart-Business-Operations-Revenue-Intelligence
-
----
-
-### 🔹 Adventure Works BI Dashboard
-**Tech:** Power BI, SQL, DAX  
-- Designed interactive dashboards for sales, profit, and time-based analysis  
-- Implemented DAX measures for business performance tracking  
-
-🔗 Repository: https://github.com/Soham2081/ADVENTURE-WORKS-PROJECT
-
----
-
-## 📈 What I'm Working On
-- Improving SQL optimization skills
-- Advanced Power BI dashboarding
-- Real-world business case analysis
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/soham-desai-861026206  
-- Portfolio: https://soham-desai-data-analyst-uwkvteo.gamma.site/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham2081&" alt="soham2081" /></p>
