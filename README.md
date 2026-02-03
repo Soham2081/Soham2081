@@ -115,6 +115,10 @@ I enjoy transforming raw, unstructured data into **clear insights that support d
   <a href="https://github.com/Soham2081">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <!-- portfolio -->
+  <a href="https://soham-desai-data-analyst-uwkvteo.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
